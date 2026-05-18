@@ -1,5 +1,6 @@
 Privacy Policy
 Al mahaba — المهابة
+
 Effective Date: 2025-02-16    |    Developer: Computing Gate    |    Contact: info@computinggate.com
 
 This privacy policy applies to the Al mahaba app (hereby referred to as "Application") for mobile devices, created by Computing Gate (hereby referred to as "Service Provider") as a free service. This service is intended for use "AS IS".
